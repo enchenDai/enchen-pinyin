@@ -1,0 +1,17 @@
+{
+  "name": "pinyin",
+  "authors": [
+    "enchen <jack.dai@huilianyi.com>"
+  ],
+  "main": [
+        "pinyin_dict_firstletter.js",
+        "pinyin_dict_notone.js",
+        "pinyin_dict_polyphone.js",
+        "pinyin_dict_withtone.js",
+        "pinyinUtil.js"
+    ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": ""
+}
